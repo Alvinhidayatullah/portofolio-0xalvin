@@ -1,6 +1,6 @@
 # 🚀 0XVINNZ Web3 Portfolio
 
-![Vercel Deployment](https://portofolio-alvin-eight.vercel.app/)
+> **🔗 Live Demo:** [https://portofolio-alvin-eight.vercel.app/](https://portofolio-alvin-eight.vercel.app/)
 
 [![React](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react)](https://reactjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4.1-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
