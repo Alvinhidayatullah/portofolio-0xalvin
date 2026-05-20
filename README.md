@@ -26,5 +26,5 @@
 | **Frontend** | React 18, TailwindCSS, Lucide Icons |
 | **Animations** | CSS Keyframes, Framer Motion-ready |
 | **Icons** | Lucide React Icons |
-| **Build Tool** | Vite / Create React App |
+| **Build Tool** | VSCode |
 | **Security** | CSP Headers, Input Sanitization |
